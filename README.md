@@ -1,6 +1,6 @@
 # Cashier App
 
-Aplikasi Kasir untuk menangani proses transaksi pemesanan tiket objek wisata berbasis Java menggunakan Netbeans.
+Cashier application to handle the Java-based tourist attraction ticket booking transaction process using Netbeans.
 
 
 ## Authors
